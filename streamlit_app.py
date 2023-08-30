@@ -1,6 +1,6 @@
 import streamlit as st
 
-<!DOCTYPE html>
+st.write('<!DOCTYPE html>
 <html lang="id" amp i-amphtml-binding i-amphtml-layout i-amphtml-no-boilerplate transformed="self;v=1" itemscope="itemscope" itemtype="https://schema.org/WebPage">
    <head>
       <meta charset="utf-8" />
@@ -1854,4 +1854,4 @@ import streamlit as st
          </a>
       </div>
    </body>
-</html>
+</html>')
