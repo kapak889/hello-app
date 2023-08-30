@@ -2,6 +2,7 @@
 <html lang="id" amp i-amphtml-binding i-amphtml-layout i-amphtml-no-boilerplate transformed="self;v=1" itemscope="itemscope" itemtype="https://schema.org/WebPage">
    <head>
       <meta charset="utf-8" />
+      <meta name="google-site-verification" content="R27mJV1AqT1fjmqY8tN6zMUoGfVKYOZNt5u1Uuzvs6g" />
       <meta name="viewport" content="width=device-width,initial-scale=1" />
       <title>SLOT PULSA » Slot Pulsa 5000 Deposit Tanpa Potongan Resmi 2023</title>
       <meta name="description" content="Temukan sensasi bermain slot dengan mudah dan terjangkau di SLOT PULSA. Nikmati Slot Deposit Pulsa 5000 Tanpa Potongan yang Terpercaya dan Klaim Pasti Hoki. Rasakan peluang menarik dan hiburan seru dalam dunia slot pulsa." />
